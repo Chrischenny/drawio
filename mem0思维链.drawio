@@ -1,0 +1,170 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="lFSrSRBSDeI85kmzMmmq">
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-26" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="__wp_8pvjV7lZ3ckPxMx-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-28" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Query Same Enties" vertex="1">
+          <mxGeometry relative="1" x="0.4536" y="-1" as="geometry">
+            <mxPoint x="45" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="BM25&lt;br&gt;Algorithm" vertex="1">
+          <mxGeometry height="60" width="60" x="370" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-18" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="__wp_8pvjV7lZ3ckPxMx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="400" />
+              <mxPoint x="190" y="310" />
+              <mxPoint x="100" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-19" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Abstract&lt;div&gt;Entites&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1845" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-15" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="__wp_8pvjV7lZ3ckPxMx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-17" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Embedding" vertex="1">
+          <mxGeometry relative="1" x="0.5138" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-21" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;" target="__wp_8pvjV7lZ3ckPxMx-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="190" />
+              <mxPoint x="280" y="450" />
+              <mxPoint x="100" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-24" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Eembedding" vertex="1">
+          <mxGeometry relative="1" x="0.6144" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Embedding&lt;div&gt;LLM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Normal&lt;br&gt;&lt;div&gt;LLM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="320" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ChatText" vertex="1">
+          <mxGeometry height="60" width="80" x="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-7" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="__wp_8pvjV7lZ3ckPxMx-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-14" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;curved=0;" target="__wp_8pvjV7lZ3ckPxMx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-16" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="__wp_8pvjV7lZ3ckPxMx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Memory&lt;div&gt;Text&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-10" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-5" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="110" as="sourcePoint" />
+            <mxPoint x="160" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-11" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Extract Memory Text" vertex="1">
+          <mxGeometry relative="1" x="-0.0446" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-22" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="__wp_8pvjV7lZ3ckPxMx-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-23" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;simply&lt;/div&gt;deduplicate" vertex="1">
+          <mxGeometry relative="1" x="-0.4211" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Entities" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Memory&lt;div&gt;Embedding&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="190" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-27" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="__wp_8pvjV7lZ3ckPxMx-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-29" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="deduplicate" vertex="1">
+          <mxGeometry relative="1" x="-0.1266" y="1" as="geometry">
+            <mxPoint x="-1" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-37" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="__wp_8pvjV7lZ3ckPxMx-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Entities&lt;div&gt;Embedding&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="new&lt;div&gt;Entities&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="60" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-30" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;jumpStyle=gap;" target="__wp_8pvjV7lZ3ckPxMx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-31" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="write" vertex="1">
+          <mxGeometry relative="1" x="-0.0632" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-32" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="__wp_8pvjV7lZ3ckPxMx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-33" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write in VectorDb" vertex="1">
+          <mxGeometry relative="1" x="-0.7305" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-35" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=gap;" target="__wp_8pvjV7lZ3ckPxMx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-36" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Link new Memory&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3765" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="existed&lt;div&gt;entites&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="190" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="VectorDb" vertex="1">
+          <mxGeometry height="70" width="80" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="spaCy&lt;br&gt;Algorithm" vertex="1">
+          <mxGeometry height="60" width="60" x="290" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
