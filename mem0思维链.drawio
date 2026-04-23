@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lFSrSRBSDeI85kmzMmmq">
-    <mxGraphModel dx="2185" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2134" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,18 +22,11 @@
         <mxCell id="4wRjvoVfM-x4k347paGe-28" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;" target="4wRjvoVfM-x4k347paGe-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-43" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;" target="4wRjvoVfM-x4k347paGe-42">
+        <mxCell id="4wRjvoVfM-x4k347paGe-43" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;" target="4wRjvoVfM-x4k347paGe-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="440" />
-              <mxPoint x="230" y="300" />
-              <mxPoint x="130" y="300" />
+              <mxPoint x="100" y="440" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-51" connectable="0" parent="4wRjvoVfM-x4k347paGe-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Calculate&lt;div&gt;Weight&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.7043" y="1" as="geometry">
-            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;" value="BM25&lt;br&gt;Algorithm" vertex="1">
@@ -42,8 +35,8 @@
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-18" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" target="__wp_8pvjV7lZ3ckPxMx-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="400" />
-              <mxPoint x="60" y="310" />
+              <mxPoint x="40" y="400" />
+              <mxPoint x="40" y="310" />
               <mxPoint x="-20" y="310" />
             </Array>
           </mxGeometry>
@@ -143,7 +136,7 @@
           <mxGeometry height="60" width="80" x="-60" y="350" as="geometry" />
         </mxCell>
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="New&lt;div&gt;Memories&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="170" y="210" as="geometry" />
+          <mxGeometry height="60" width="80" x="170" y="250" as="geometry" />
         </mxCell>
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="New&lt;div&gt;Entities&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="230" y="480" as="geometry" />
@@ -165,33 +158,31 @@
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-30" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;jumpStyle=gap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" target="__wp_8pvjV7lZ3ckPxMx-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="240" />
-              <mxPoint x="300" y="285" />
+              <mxPoint x="260" y="285" />
+              <mxPoint x="260" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-31" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="write" vertex="1">
           <mxGeometry relative="1" x="-0.0632" as="geometry">
-            <mxPoint y="5" as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__wp_8pvjV7lZ3ckPxMx-35" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=gap;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" target="__wp_8pvjV7lZ3ckPxMx-13">
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-35" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="__wp_8pvjV7lZ3ckPxMx-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="420" />
               <mxPoint x="210" y="420" />
+              <mxPoint x="130" y="420" />
             </Array>
+            <mxPoint x="170" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__wp_8pvjV7lZ3ckPxMx-36" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Link Memory&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-36" connectable="0" parent="__wp_8pvjV7lZ3ckPxMx-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Link Memo&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3765" y="-2" as="geometry">
-            <mxPoint x="10" y="-2" as="offset" />
+            <mxPoint x="-38" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kVl-DRMAmyP9qywUrjba-8" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" target="__wp_8pvjV7lZ3ckPxMx-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kVl-DRMAmyP9qywUrjba-9" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kVl-DRMAmyP9qywUrjba-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="existed&lt;div&gt;entites&lt;/div&gt;" vertex="1">
@@ -231,8 +222,8 @@
         <mxCell id="4wRjvoVfM-x4k347paGe-45" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" target="4wRjvoVfM-x4k347paGe-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="400" />
-              <mxPoint x="40" y="190" />
+              <mxPoint x="30" y="400" />
+              <mxPoint x="30" y="190" />
               <mxPoint x="100" y="190" />
             </Array>
           </mxGeometry>
@@ -389,30 +380,29 @@
           <mxGeometry height="60" width="80" x="681" y="550" as="geometry" />
         </mxCell>
         <mxCell id="4wRjvoVfM-x4k347paGe-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;" value="Sparse&lt;div&gt;Vectore&lt;/div&gt;&lt;div&gt;(Optional)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="90" y="320" as="geometry" />
+          <mxGeometry height="60" width="80" x="60" y="320" as="geometry" />
         </mxCell>
         <mxCell id="4wRjvoVfM-x4k347paGe-47" edge="1" parent="1" source="4wRjvoVfM-x4k347paGe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4wRjvoVfM-x4k347paGe-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="300" />
-              <mxPoint x="130" y="300" />
+              <mxPoint x="100" y="310" />
+              <mxPoint x="100" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4wRjvoVfM-x4k347paGe-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;" value="KeyWord&lt;div&gt;(Optional)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="60" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-48" edge="1" parent="1" source="4wRjvoVfM-x4k347paGe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;" target="__wp_8pvjV7lZ3ckPxMx-1">
+        <mxCell id="4wRjvoVfM-x4k347paGe-48" edge="1" parent="1" source="4wRjvoVfM-x4k347paGe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;dashed=1;" target="__wp_8pvjV7lZ3ckPxMx-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="350" />
-              <mxPoint x="300" y="285" />
+              <mxPoint x="190" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-50" connectable="0" parent="4wRjvoVfM-x4k347paGe-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontColor=light-dark(#000000,#666666);" value="&lt;div&gt;combine&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;and&lt;/span&gt;&lt;/div&gt;write(optional)" vertex="1">
+        <mxCell id="4wRjvoVfM-x4k347paGe-50" connectable="0" parent="4wRjvoVfM-x4k347paGe-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontColor=light-dark(#000000,#666666);" value="&lt;div&gt;combine&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.4073" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint x="-20" y="42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kVl-DRMAmyP9qywUrjba-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" value="ChatText" vertex="1">
