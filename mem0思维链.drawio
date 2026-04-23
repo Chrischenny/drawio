@@ -139,7 +139,7 @@
             <mxPoint x="133" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__wp_8pvjV7lZ3ckPxMx-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="Entities" vertex="1">
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="Entities&lt;div&gt;Candidate&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="3" y="380" as="geometry" />
         </mxCell>
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="New&lt;div&gt;Memories&lt;/div&gt;" vertex="1">
@@ -192,7 +192,7 @@
         <mxCell id="kVl-DRMAmyP9qywUrjba-8" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" target="__wp_8pvjV7lZ3ckPxMx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="__wp_8pvjV7lZ3ckPxMx-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="existed&lt;div&gt;entites&lt;/div&gt;" vertex="1">
+        <mxCell id="__wp_8pvjV7lZ3ckPxMx-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="existed&lt;div&gt;entites&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="173" y="480" as="geometry" />
         </mxCell>
         <mxCell id="4wRjvoVfM-x4k347paGe-14" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" target="4wRjvoVfM-x4k347paGe-12">
@@ -431,7 +431,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kVl-DRMAmyP9qywUrjba-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" value="embedding&lt;div&gt;Entities&lt;/div&gt;" vertex="1">
+        <mxCell id="kVl-DRMAmyP9qywUrjba-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" value="&lt;div&gt;Entities&lt;/div&gt;&lt;div&gt;Embed&lt;/div&gt;&lt;div&gt;Vector&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="3" y="480" as="geometry" />
         </mxCell>
         <mxCell id="kVl-DRMAmyP9qywUrjba-13" edge="1" parent="1" source="kVl-DRMAmyP9qywUrjba-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;curved=0;jumpStyle=gap;" target="4wRjvoVfM-x4k347paGe-29">
