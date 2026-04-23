@@ -366,6 +366,11 @@
         <mxCell id="4wRjvoVfM-x4k347paGe-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="Calcuted&lt;div&gt;Weight&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="623" y="659" as="geometry" />
         </mxCell>
+        <mxCell id="kVl-DRMAmyP9qywUrjba-19" edge="1" parent="1" source="4wRjvoVfM-x4k347paGe-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" target="kVl-DRMAmyP9qywUrjba-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="779.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4wRjvoVfM-x4k347paGe-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="Sorted&lt;div&gt;Memories&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="623" y="749" as="geometry" />
         </mxCell>
@@ -445,6 +450,9 @@
         </mxCell>
         <mxCell id="kVl-DRMAmyP9qywUrjba-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="memory&lt;div&gt;Weight&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="623" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="kVl-DRMAmyP9qywUrjba-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="Send to&lt;div&gt;LLM Prompts&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="500" y="749" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
