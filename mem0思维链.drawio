@@ -105,7 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-46" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" target="4wRjvoVfM-x4k347paGe-44">
+        <mxCell id="4wRjvoVfM-x4k347paGe-46" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" target="4wRjvoVfM-x4k347paGe-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="213" y="220" />
@@ -218,7 +218,7 @@
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="VectorDb" vertex="1">
           <mxGeometry height="70" width="80" x="383" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-35" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;jumpStyle=gap;" target="4wRjvoVfM-x4k347paGe-2">
+        <mxCell id="4wRjvoVfM-x4k347paGe-35" edge="1" parent="1" source="__wp_8pvjV7lZ3ckPxMx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;jumpStyle=gap;dashed=1;" target="4wRjvoVfM-x4k347paGe-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="423" y="380" />
@@ -247,7 +247,7 @@
         <mxCell id="__wp_8pvjV7lZ3ckPxMx-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="spaCy&lt;br&gt;Algorithm" vertex="1">
           <mxGeometry height="60" width="60" x="333" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="4wRjvoVfM-x4k347paGe-5" edge="1" parent="1" source="4wRjvoVfM-x4k347paGe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4wRjvoVfM-x4k347paGe-2">
+        <mxCell id="4wRjvoVfM-x4k347paGe-5" edge="1" parent="1" source="4wRjvoVfM-x4k347paGe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;jumpStyle=gap;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" target="4wRjvoVfM-x4k347paGe-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="663" y="110" />
@@ -259,9 +259,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="663" y="110" />
-              <mxPoint x="783" y="110" />
-              <mxPoint x="783" y="140" />
-              <mxPoint x="784" y="140" />
+              <mxPoint x="784" y="110" />
             </Array>
             <mxPoint x="744" y="140" as="targetPoint" />
           </mxGeometry>
