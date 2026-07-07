@@ -26,7 +26,7 @@
           <mxGeometry height="230" width="310" x="468" y="300" as="geometry" />
         </mxCell>
         <mxCell id="C5MRzlIUuhBpAMNvHewq-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="豆包云" vertex="1">
-          <mxGeometry height="30" width="60" x="76" y="320" as="geometry" />
+          <mxGeometry height="30" width="60" x="70" y="320" as="geometry" />
         </mxCell>
         <mxCell id="C5MRzlIUuhBpAMNvHewq-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="中科云" vertex="1">
           <mxGeometry height="30" width="60" x="473" y="310" as="geometry" />
@@ -104,7 +104,7 @@
         <mxCell id="C5MRzlIUuhBpAMNvHewq-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=14;" value="第三方ASR" vertex="1">
           <mxGeometry height="60" width="120" x="259" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="C5MRzlIUuhBpAMNvHewq-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" value="豆包ai网关协议" vertex="1">
+        <mxCell id="C5MRzlIUuhBpAMNvHewq-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" value="实现豆包ai网关协议服务" vertex="1">
           <mxGeometry height="60" width="285" x="105" y="210" as="geometry" />
         </mxCell>
         <mxCell id="C5MRzlIUuhBpAMNvHewq-34" edge="1" parent="1" source="C5MRzlIUuhBpAMNvHewq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.091;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="C5MRzlIUuhBpAMNvHewq-31">
