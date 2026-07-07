@@ -1,9 +1,67 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="2UJmiTnD6ga2ufZcd4Nq">
-    <mxGraphModel>
+    <mxGraphModel dx="855" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="设备" vertex="1">
+          <mxGeometry height="360" width="100" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-9" parent="xFnjE0FW9HJ-_dbyRxaf-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="240" width="10" x="45" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-10" edge="1" parent="xFnjE0FW9HJ-_dbyRxaf-4" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="xFnjE0FW9HJ-_dbyRxaf-9" value="检测到人形">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-16" parent="xFnjE0FW9HJ-_dbyRxaf-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="50" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-17" edge="1" parent="xFnjE0FW9HJ-_dbyRxaf-4" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="根据结果&lt;div&gt;和设置项&lt;/div&gt;&lt;div&gt;判断是否干预&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="192" />
+            </Array>
+            <mxPoint x="55" y="162" as="sourcePoint" />
+            <mxPoint x="60" y="191.9655172413793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="中科AI云" vertex="1">
+          <mxGeometry height="360" width="100" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-11" parent="xFnjE0FW9HJ-_dbyRxaf-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="45" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="智家云" vertex="1">
+          <mxGeometry height="360" width="100" x="420" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-12" edge="1" parent="1" source="xFnjE0FW9HJ-_dbyRxaf-9" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" target="xFnjE0FW9HJ-_dbyRxaf-11" value="抽帧视频检测">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="135" y="122.12" as="sourcePoint" />
+            <mxPoint x="325.69000000000005" y="122.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-13" edge="1" parent="1" source="xFnjE0FW9HJ-_dbyRxaf-11" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" target="xFnjE0FW9HJ-_dbyRxaf-9" value="返回检测结果">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="320" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="进行吃药对话提醒" vertex="1">
+          <mxGeometry height="40" width="220" x="110" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-19" edge="1" parent="1" source="xFnjE0FW9HJ-_dbyRxaf-9" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" target="xFnjE0FW9HJ-_dbyRxaf-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFnjE0FW9HJ-_dbyRxaf-20" connectable="0" parent="xFnjE0FW9HJ-_dbyRxaf-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="吃药结果推送智家云" vertex="1">
+          <mxGeometry relative="1" x="-0.2062" y="-2" as="geometry">
+            <mxPoint y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
